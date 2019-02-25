@@ -11,8 +11,8 @@ Additionally, the ability to efficiently manipulate large datasets with Spark is
 
 ### ** Essential Skills **
 
-Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
+1. Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
 
-Use the machine learning APIs within Spark ML to build and tune models
+2. Use the machine learning APIs within Spark ML to build and tune models
 
-Apply Data Science techniques on the Spark data set
+3. Apply Data Science techniques on the Spark data set
