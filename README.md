@@ -9,4 +9,10 @@ Predicting churn rates is a challenging and common problem that data scientists 
 
 Additionally, the ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data.
 
+### ** Essential Skills **
 
+Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
+
+Use the machine learning APIs within Spark ML to build and tune models
+
+Apply Data Science techniques on the Spark data set
