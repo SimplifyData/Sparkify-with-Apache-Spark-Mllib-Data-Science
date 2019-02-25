@@ -33,3 +33,30 @@ We can incorpoate the findings to launch a A/B test to build a recommendation en
 I have computed F1 scores to measure of model performance based on precision and recall. 
 
 The F1 score will guide us to predict more precisely the users who are likely to churn, thus taking Sparkify towards growth.
+
+
+### ** Data **
+
+Customer User log
+
+Packages:
+1. PySpark
+2. Pandas
+3. Seaborn 
+4. Matplotlib
+
+### ** Machine Learning Models **
+
+1. Support Vector Machines
+2. Random Forest Classifier
+3. Gradient Boosted Trees
+4. Logistic Regression
+
+Methodology:
+1. Data Pipeline & ETL
+2. Explortaory Data Analysis
+3. Customer Churn
+4. Feature Engineering
+5. ML Modeling
+6. Evaluating Models
+7. Feature import analysis
