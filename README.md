@@ -39,7 +39,7 @@ The F1 score will guide us to predict more precisely the users who are likely to
 
 Customer User log
 
-Packages:
+### ** Packages **
 1. PySpark
 2. Pandas
 3. Seaborn 
@@ -52,7 +52,7 @@ Packages:
 3. Gradient Boosted Trees
 4. Logistic Regression
 
-Methodology:
+### ** Methodology **
 1. Data Pipeline & ETL
 2. Explortaory Data Analysis
 3. Customer Churn
