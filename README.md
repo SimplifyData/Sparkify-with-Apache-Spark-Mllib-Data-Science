@@ -2,6 +2,7 @@
 Manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. 
 Use Spark MLlib to build machine learning models with large datasets.
 
+https://medium.com/@atif.zafar/7-critical-habits-of-music-service-subscribers-like-spotify-a126bd3201d2
 
 ### ** Purpose **
 
