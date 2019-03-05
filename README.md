@@ -42,6 +42,16 @@ I have computed F1 scores to measure of model performance based on precision and
 
 The F1 score will guide us to predict more precisely the users who are likely to churn, thus taking Sparkify towards growth.
 
+### ** Results **
+
+Random Forest Metrics:
+Accuracy: 0.7755102040816326
+F-1 Score:0.6774571897724607
+
+### ** Conclusion **
+
+The length of service used plays the most important factor to predict the churn rate. Subscription downgrade also indicates if the customer will churn. If the customer plays alot of artists and adds alots of songs in thier playlist then its a good sign. Lastly, songs played per session plays is also vital in predicting the churn rate.
+
 
 ### ** Data **
 
