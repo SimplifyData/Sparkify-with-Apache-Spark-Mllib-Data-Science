@@ -1,4 +1,5 @@
 # Sparkify with Apache Spark Mllib & Data Science
+
 Manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. 
 Use Spark MLlib to build machine learning models with large datasets.
 
@@ -23,6 +24,12 @@ Additionally, the ability to efficiently manipulate large datasets with Spark is
 
 Sparkify is a cloud music streaming service just like Spotify or Pandora. 
 
+We are working on the data team of Sparkify. Million of users play songs here using free and premium service.
+Users can upgrade or downgrade or cancel thier serivce. So they have to remain engage.
+As a data scientist in this project I have to predict who will cancel the service (churn) before it happens to prevent millions of dollar in loss.
+
+### ** Strategy **
+
 We are provided the user log of the of the service.
 
 The user log contains demographic information, user activities, timestamps, whether user is a paid or free tier, and etc. 
@@ -41,6 +48,7 @@ The F1 score will guide us to predict more precisely the users who are likely to
 Customer User log
 
 ### ** Packages **
+
 1. PySpark
 
 2. Pandas
